@@ -11,7 +11,7 @@ I am currently a *Java* developer.
 
 #### Technologies
 
-🐋 ☕ 🪶 🐘 🐬 🐧
+🐋 ☕ 🪶 🐘 🐬 🐧 🖧
 
 <hr>
 
