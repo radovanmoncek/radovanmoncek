@@ -1,18 +1,11 @@
-
-<hr>
-
 ### Hello,
 
-my name is *Radovan Monček*, a student of *informatics* at the *University of Hradec Králové*.
+my name is Radovan Monček.
 
-I am currently a *Java* developer.
+#### Certifications
 
-<hr>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="78df8944-a072-4c2c-a1c7-1f7ca4036e96" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
-#### Technologies
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a75a6dd5-0658-4b0e-b5f5-f4991943587f" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
-🐋 ☕ 🪶 🐘 🐬 🐧 🖧
-
-<hr>
-
-#### Portfolio
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ce8052c0-3cd9-48ae-b1d4-4870247ec3b6" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
